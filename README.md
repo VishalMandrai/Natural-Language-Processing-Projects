@@ -8,7 +8,7 @@
 
 ## About Repository:
 <ul>
-<li><p>This repository contains all of my Natural Language Processing projects. The main reason for making this repository is to keep all my Natural Language Processing projects at one place.</p></li>
+<li><p>This repository contains all my Natural Language Processing projects. The main reason for making this repository is to keep all my Natural Language Processing projects at one place.</p></li>
 <li><p>Solutions to problem statements are provided in the Python Notebooks in above folders.</p></li>
 </ul>
 
