@@ -12,6 +12,8 @@
 <li><p>Solutions to problem statements are provided in the Python Notebooks in above folders.</p></li>
 </ul>
 
-## Do ⭐ the repository, if it helped you in anyway.
+--- 
+
+### Do ⭐ the repository, if it helped you in anyway.
 
 ---
